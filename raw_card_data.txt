@@ -1,0 +1,72 @@
+Grading Company,Serial Number,Grade,Owner
+
+PSA,27139728,10,Old Label,
+
+PSA,24281314,9,Old Label,
+PSA,27632880,9,Old Label,
+PSA,42742187,9,Old Label,Old Skool Pokemon
+PSA,51059057,9,Old Label,
+PSA,53490492,9,Old Label,
+
+PSA,27017323,8.5,Old Label,
+
+PSA,16481871,8,Old Label,
+PSA,22398477,8,Old Label,Old Skool Pokemon
+PSA,26561545,8,Old Label,Old Skool Pokemon
+PSA,26824340,8,Old Label,Old Skool Pokemon
+PSA,27826029,8,Old Label,Old Skool Pokemon
+PSA,41364050,8,Old Label,Old Skool Pokemon
+PSA,46176781,8,Old Label,
+PSA,46293066,8,Old Label,Old Skool Pokemon
+PSA,51922267,8,Old Label,
+PSA,54927109,8,New Label,
+
+PSA,26824339,7,Old Label,Old Skool Pokemon
+PSA,28584604,7,Old Label,Old Skool Pokemon
+
+PSA,21297604,6,Old Label,Old Skool Pokemon
+PSA,21552553,6,Old Label,Old Skool Pokemon
+PSA,23766056,6,Old Label,Old Skool Pokemon
+PSA,26961524,6,Old Label,
+PSA,27320601,6,Old Label,Old Skool Pokemon
+PSA,28346963,6,Old Label,Old Skool Pokemon
+PSA,28386846,6,Old Label,
+PSA,49256707,6,Old Label,
+PSA,51737603,6,Old Label,
+
+PSA,22135551,5,Old Label,
+PSA,26090385,5,Old Label,Old Skool Pokemon
+PSA,40758566,5,Old Label,
+PSA,43028291,5,Old Label,
+PSA,43996251,5,Old Label,
+PSA,48093267,5,Updated Label
+
+PSA,28318098,4,Old Label,Old Skool Pokemon
+
+PSA,51243924,3,Old Label,
+
+PSA,23614293,2,Old Label,Old Skool Pokemon
+PSA,23614294,2,Old Label,Old Skool Pokemon
+
+PSA,22080382,Authentic,Old Label,
+PSA,25082106,Authentic,Old Label,
+PSA,25446349,Authentic,Old Label,
+
+CGC,UNKNOWN,8.5,N/A,Old Skool Pokemon - https://www.youtube.com/watch?v=FyIGEjgV3GU
+
+CGC,3760707010,8.0,N/A,
+CGC,UNKNOWN,8.0,N/A,Old Skool Pokemon - https://www.youtube.com/watch?v=FyIGEjgV3GU
+
+CGC,UNKNOWN,7.5,N/A,Old Skool Pokemon - https://www.youtube.com/watch?v=FyIGEjgV3GU
+
+CGC,3872351001,7.0,N/A,
+CGC,UNKNOWN,7.0,N/A,Old Skool Pokemon - https://www.youtube.com/watch?v=FyIGEjgV3GU
+CGC,UNKNOWN,7.0,N/A,Old Skool Pokemon - https://www.youtube.com/watch?v=FyIGEjgV3GU
+CGC,UNKNOWN,7.0,N/A,Old Skool Pokemon - https://www.youtube.com/watch?v=FyIGEjgV3GU
+
+CGC,3714166129,5.5,N/A,
+CGC,UNKNOWN,5.5,N/A,Old Skool Pokemon - https://www.youtube.com/watch?v=FyIGEjgV3GU
+
+CGC,3716084003,4.5,N/A,
+
+CGC,UNKNOWN,3.0,N/A,Old Skool Pokemon - https://www.youtube.com/watch?v=FyIGEjgV3GU
