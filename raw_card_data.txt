@@ -56,6 +56,7 @@ PSA,25446349,Authentic,Old Label,
 CGC,UNKNOWN,8.5,N/A,Old Skool Pokemon - https://www.youtube.com/watch?v=FyIGEjgV3GU
 
 CGC,3760707010,8.0,N/A,
+CGC,3872642007,8.0,N/A,
 CGC,UNKNOWN,8.0,N/A,Old Skool Pokemon - https://www.youtube.com/watch?v=FyIGEjgV3GU
 
 CGC,UNKNOWN,7.5,N/A,Old Skool Pokemon - https://www.youtube.com/watch?v=FyIGEjgV3GU
