@@ -74,3 +74,5 @@ CGC,UNKNOWN,5.5,N/A,Old Skool Pokemon - https://www.youtube.com/watch?v=FyIGEjgV
 CGC,3716084003,4.5,N/A,
 
 CGC,UNKNOWN,3.0,N/A,Old Skool Pokemon - https://www.youtube.com/watch?v=FyIGEjgV3GU
+
+BGS,0012221875,7.0,N/A,
