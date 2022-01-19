@@ -43,6 +43,7 @@ PSA,43028291,5,Old Label,
 PSA,43996251,5,Old Label,
 PSA,48093267,5,Updated Label
 PSA,54017835,5,Old Label
+PSA,57311618,5,Old Label
 
 PSA,28318098,4,Old Label,Old Skool Pokemon
 
